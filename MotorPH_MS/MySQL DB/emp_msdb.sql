@@ -1,1 +1,0 @@
-SELECT * FROM emp_msdb.attendance;
